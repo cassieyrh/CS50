@@ -47,3 +47,4 @@ int main(void)
         coin++;
     }
     printf ("%i\n", coin);
+}
