@@ -4,6 +4,7 @@
     Author: Ruiheng Yin
     
     This file is a solution to the greedy algorithm problem from pset1 of CS50.
+    This is a program that asks a user how much change is owed, and then splits the amount into the least amount of coins
 
 */
 
