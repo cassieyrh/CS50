@@ -3,7 +3,7 @@
     
     Author: Ruiheng Yin
     
-    This is a solution for the vigenere problem in pset2 of CS50x.
+    This is a solution for the vigenere problem in pset2 of CS50x3.
     This file is a a program that encrypts messages using Vigenere's cipher.
     
 */
