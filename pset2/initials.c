@@ -40,3 +40,4 @@ int main(void)
         printf ("%c", (char) a);
         printf ("%c\n", toupper(s[i]) );
     }
+}
